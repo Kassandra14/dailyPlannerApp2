@@ -5,7 +5,7 @@ Daily Planner App
 This app is an hourly planner that allows users to save events for each hour of the workday...and the intention is to make it color-coded based on whether the time is passed or not.
 
 
-This app runs in the browser, uses jQuery and Moment.js library for time formatting.
+This app runs in the browser, and uses jQuery and Moment.js library for time formatting.
 
 
 
@@ -16,9 +16,9 @@ This app runs in the browser, uses jQuery and Moment.js library for time formatt
 
 
 
-Access the app here:
+#### Access the app here:
 
-Repo: https://github.com/Kassandra14/Kassandra14.github.io
-App: https://kassandra14.github.io/dailyPlannerApp/dailyPlannerApp/
+#### Repo: https://kassandra14.github.io/dailyPlannerApp2/
+##### App: https://kassandra14.github.io/dailyPlannerApp2/Develop/indexweek5.html
 
 
